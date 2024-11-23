@@ -4,50 +4,46 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 
 ## Table of Contents
 
-### Overview
+##### Overview
 
-### Built With
+##### Built With
 
-### What I Learned
+##### What I Learned
 
-### Links
+##### Links
 
-### Acknowledgments
-
-### Overview
-
-### The Space Tourism Website is a multi-page website where users can:
+##### Acknowledgments
 
 ## Overview
 
 The Space Tourism Website allows you to:
 
-#### View optimized layouts for different screen sizes.
+✅ View optimized layouts for different screen sizes.
 
-#### Navigate between tabs to explore new information.
+✅ Navigate between tabs to explore new information.
 
-#### Interact with hover states on all interactive elements.
+✅ Interact with hover states on all interactive elements.
 
 ## Built With
 
-#### React.js
+✅ React.js
 
-#### React Router 6 (for routing)
+✅ React Router 6 (for routing)
 
-#### Tailwind CSS (for styling)
+✅ Tailwind CSS (for styling)
 
 ## What I Learned
 
 #### This project solidified my knowledge of:
 
-React for building dynamic UI components.
-React Router 6 for implementing seamless multi-page navigation.
-Tailwind CSS for efficient and responsive styling.
+✅ React for building dynamic UI components.
+✅ React Router 6 for implementing seamless multi-page navigation.
+✅ Tailwind CSS for efficient and responsive styling.
 
 ## Links
 
 Solution URL <!-- Add your solution URL here -->
-Live Site URL <!-- Add your live site URL here -->
+Live Site URL [here](https://space-tourism-website-hp.netlify.app/)
 
 ## Acknowledgments
 

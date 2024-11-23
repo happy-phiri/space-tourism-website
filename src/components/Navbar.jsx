@@ -11,7 +11,9 @@ const Navbar = () => {
     <nav className=" relative max-lg:px-6 max-xl:px-6 lg:mt-10 z-20">
       <div className="max-w-screen-desktop flex flex-row flex-nowrap justify-between md:items-center md:h-[96px] mx-auto">
         {/* HOMEPAGE */}
-        <Link to="/" className="h-full flex items-center max-sm:mt-3">
+        <Link
+          to="/"
+          className="h-full flex items-center max-sm:mt-3 lg:ml-6 xl:ml-0">
           <img
             src={logo}
             alt="space tourism website logo"
