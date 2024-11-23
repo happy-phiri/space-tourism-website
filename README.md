@@ -42,7 +42,7 @@ The Space Tourism Website allows you to:
 
 ## Links
 
-Solution URL <!-- Add your solution URL here -->
+Solution URL [here](https://www.frontendmentor.io/solutions/space-tourism-website-built-with-reactjs-and-tailwindcss-oATLEmrSqW)
 Live Site URL [here](https://space-tourism-website-hp.netlify.app/)
 
 ## Acknowledgments
