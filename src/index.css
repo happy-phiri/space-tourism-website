@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Bellefair&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .small-screen-padding {
+    @apply max-desktop:px-6;
+    @apply max-desktop:py-3;
+    @apply max-desktop:pb-10;
+  }
+  .small-screen-padding-2 {
+    @apply max-desktop:px-6;
+    @apply max-desktop:py-3;
+  }
+}
