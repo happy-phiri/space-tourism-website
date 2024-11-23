@@ -13,7 +13,7 @@ const Navbar = () => {
         {/* HOMEPAGE */}
         <Link
           to="/"
-          className="h-full flex items-center max-sm:mt-3 lg:ml-6 xl:ml-0">
+          className="h-full flex items-center max-sm:mt-3 xl:pl-6 desktop:pl-0">
           <img
             src={logo}
             alt="space tourism website logo"
