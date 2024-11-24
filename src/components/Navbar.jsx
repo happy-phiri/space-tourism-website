@@ -34,6 +34,7 @@ const Navbar = () => {
           <NavLink
             to="."
             end
+            onClick={() => setShowNav(false)}
             className={({ isActive }) => {
               const baseStyles =
                 "min-h-full flex flex-row flex-nowrap md:justify-center items-center";
@@ -50,6 +51,7 @@ const Navbar = () => {
           </NavLink>
           <NavLink
             to="destination"
+            onClick={() => setShowNav(false)}
             className={({ isActive }) => {
               const baseStyles =
                 "min-h-full flex flex-row flex-nowrap md:justify-center items-center";
@@ -67,6 +69,7 @@ const Navbar = () => {
           </NavLink>
           <NavLink
             to="crew"
+            onClick={() => setShowNav(false)}
             className={({ isActive }) => {
               const baseStyles =
                 "min-h-full flex flex-row flex-nowrap md:justify-center items-center";
@@ -83,6 +86,7 @@ const Navbar = () => {
           </NavLink>
           <NavLink
             to="technology"
+            onClick={() => setShowNav(false)}
             className={({ isActive }) => {
               const baseStyles =
                 "min-h-full flex flex-row flex-nowrap md:justify-center items-center";
