@@ -61,7 +61,7 @@ const Technology = () => {
 
   return (
     <main className="bg-technology-mobile-image md:bg-technology-tablet-image lg:bg-technology-desktop-image bg-cover bg-center bg-no-repeat absolute top-0 left-0 right-0 min-h-[100vh] grid place-content-center">
-      <p className="small-screen-padding-2 text-mobile-preset-6 tracking-small mb-6 uppercase md:text-mobile-preset-5 lg:text-mobile-preset-3 text-[rgba(255,255,255,0.8)] text-center md:text-left pt-20 md:pt-40 xl:pt-48">
+      <p className="small-screen-padding-2 text-mobile-preset-6 tracking-small mb-6 uppercase md:text-mobile-preset-5 lg:text-mobile-preset-3 text-[rgba(255,255,255,0.8)] text-center md:text-left pt-36 md:pt-40 xl:pt-48">
         <span className="font-barlow-condensed-regular font-semibold tracking-medium text-[rgba(255,255,255,0.5)] mr-4">
           03
         </span>{" "}
